@@ -1,4 +1,4 @@
-import "../css/common.css";
+import "../sass/switch-colors.scss";
 
 const getRandomHexColor = () => {
   return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
