@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(to right, #64f38c, #f79d00);
+}
+
+.task {
+  //   width: 100px;
+  //   height: 55px;
+  //   margin-right: 10px;
+  //   background: #fff;
+  //   cursor: pointer;
+  //   border: 2px solid #000000;
+  //   border-radius: 4px;
+
+  display: inline-block;
+  text-align: center;
+  margin-top: 10px;
+  color: #000000;
+  background: #fff;
+  padding: 0.7rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none;
+  border: 2px solid #000000;
+  border-radius: 4px;
+  cursor: pointer;
+}
